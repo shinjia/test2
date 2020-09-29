@@ -8,6 +8,4 @@ test2
 test again
 :+1: 
 
-:::success
-重點區域
-:::
+test 3
